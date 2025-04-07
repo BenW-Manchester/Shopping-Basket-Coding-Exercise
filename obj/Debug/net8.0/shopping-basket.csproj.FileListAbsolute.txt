@@ -1,0 +1,14 @@
+/home/ben/Github/shopping-basket/bin/Debug/net8.0/shopping-basket
+/home/ben/Github/shopping-basket/bin/Debug/net8.0/shopping-basket.deps.json
+/home/ben/Github/shopping-basket/bin/Debug/net8.0/shopping-basket.runtimeconfig.json
+/home/ben/Github/shopping-basket/bin/Debug/net8.0/shopping-basket.dll
+/home/ben/Github/shopping-basket/bin/Debug/net8.0/shopping-basket.pdb
+/home/ben/Github/shopping-basket/obj/Debug/net8.0/shopping-basket.GeneratedMSBuildEditorConfig.editorconfig
+/home/ben/Github/shopping-basket/obj/Debug/net8.0/shopping-basket.AssemblyInfoInputs.cache
+/home/ben/Github/shopping-basket/obj/Debug/net8.0/shopping-basket.AssemblyInfo.cs
+/home/ben/Github/shopping-basket/obj/Debug/net8.0/shopping-basket.csproj.CoreCompileInputs.cache
+/home/ben/Github/shopping-basket/obj/Debug/net8.0/shopping-basket.dll
+/home/ben/Github/shopping-basket/obj/Debug/net8.0/refint/shopping-basket.dll
+/home/ben/Github/shopping-basket/obj/Debug/net8.0/shopping-basket.pdb
+/home/ben/Github/shopping-basket/obj/Debug/net8.0/shopping-basket.genruntimeconfig.cache
+/home/ben/Github/shopping-basket/obj/Debug/net8.0/ref/shopping-basket.dll
